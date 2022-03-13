@@ -1,7 +1,8 @@
+<img width="934" alt="Screenshot 2022-03-13 at 12 49 16 PM" src="https://user-images.githubusercontent.com/54794852/158058313-2a1886ee-bff4-4b4b-83ca-1aab388efe1e.png">
+
 ### Hi there 👋 I'm Aditya Gavali
 #### Data Analysis and Business Expansion.
 
-<img width="934" alt="Screenshot 2022-03-13 at 12 49 16 PM" src="https://user-images.githubusercontent.com/54794852/158058313-2a1886ee-bff4-4b4b-83ca-1aab388efe1e.png">
 
 I enjoy doing Data Analysis and finding insights to ease some pressure off my curious mind. Additionally, I'm a huge fan of Cloud Computing ☁️ where I'm exploring how it can make life easier and faster for businesses from a holistic point of view.
 
