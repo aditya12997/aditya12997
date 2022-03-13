@@ -20,10 +20,14 @@ I enjoy doing Data Analysis and finding insights to ease some pressure off my cu
  
 ⚡ Fun fact: I prefer to let the data speak for itself, rather than me speaking on behalf of it.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+🔥 Skills: 
+    SQL
+    Python
+    Tableau
+    AWS Cloud
+    Statistics
+    Data Analysis 
+    Data Communcation 
 
 
 
