@@ -7,17 +7,17 @@ I'm Aditya Gavali, and I enjoy doing Data Analysis and finding insights to ease 
 
 🔭 I’m currently working on Consumer Insights projects where I dig deep into the hidden behavioural patters by exploring the data and implementing Machine Learning Models.
 
- -🌱 I’m currently learning Cloud Computing and building datapipe lines alongside Natural Language Processing and Deep Learning.
+🌱 I’m currently learning Cloud Computing and building datapipe lines alongside Natural Language Processing and Deep Learning.
  
- -👯 I’m looking to collaborate on Data Analysis Projects where I bring my experience and capabilities to demonstrate actionable insights.
+👯 I’m looking to collaborate on Data Analysis Projects where I bring my experience and capabilities to demonstrate actionable insights.
  
- -💬 Ask me about Cloud Computing, Statistics, Data Science, Digital Transformation, Digital Marketing.
+💬 Ask me about Cloud Computing, Statistics, Data Science, Digital Transformation, Digital Marketing.
  
- -📫 How to reach me: aditya.gavali@student.ie.edu
+📫 How to reach me: aditya.gavali@student.ie.edu
  
- -🕸 Website - https://adityagavali161.wixsite.com/aditya-gavali
+ 🕸 Website - https://adityagavali161.wixsite.com/aditya-gavali
  
- -😄 Pronouns: he/him
+😄 Pronouns: he/him
  
- -⚡ Fun fact: I prefer to let the data speak for itself, rather than me speaking on behalf of it.
+⚡ Fun fact: I prefer to let the data speak for itself, rather than me speaking on behalf of it.
 
