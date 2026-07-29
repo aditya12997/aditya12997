@@ -7,8 +7,6 @@
 I enjoy doing Data Analysis and finding insights to ease some pressure off my curious mind. Additionally, I'm a huge fan of Cloud Computing ☁️ where I'm exploring how it can make life easier and faster for businesses from a holistic point of view.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya12997)](https://github.com/anuraghazra/github-readme-stats)
-
 🔭 I’m currently working on Consumer Insights projects where I dig deep into the hidden behavioral patterns by exploring the data and implementing Machine Learning Models.
 
 🌱 I’m currently learning Cloud Computing and building Datapipe lines alongside Natural Language Processing and Deep Learning.
